@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aswin Warrier</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin1362&label=Profile%20views&color=0e75b6&style=flat" alt="aswin1362" /> </p>
 
-- 🌱 I’m currently learning **React,Node,Javascript**
+- 🌱 I’m currently learning **React,Java,Springboot**
 
 - 🔭 I’m currently working on **web development**
 
-- 💬 Ask me about **react,node,javascript**
+- 💬 Ask me about **React,Javascript,Java,PHP,Springboot,Laravel**
 
 - 📫 How to reach me **aswinwarrier136@gmail.com**
 
